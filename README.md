@@ -19,26 +19,45 @@ Internship opportunity is important for juniors and seniors, but information abo
 
 
 2. 	System Design:
+
 (1) Client Design - HTML, CSS / Java Swing
+
 (2) Connection - Java: FrontEndConn
+
 (3) Server Side - Java: GoogleQuery, WebTree, WebNode, WebPage, WordCounter
  
   >> Word Counter - Method:
+
      countKeyword-It counts keyword number of each websites.
+     
   >> Web Page - Method:
+
      WebPage - Innitiate each website as WebPage.	
+     
      setScore - Calculate website’s scores according to its keyword number and the weight.
+     
   >> Web Node - Method:
+  
      WebNode - Initiate each WebPage as WebNode.
+     
      setNodeScore - Add parent’s and childs’ score to parent node.
+     
   >> Web Tree - Method:
+  
      setKeyWords - Set keyword and its weight.
+     
   >> Google Query - Method:
+  
      Innitiate a Tree
+     
      PriorityQueue<WebNode> query - Organized above methods and put them into this method which has two functions.
+     
      >	Do Score Calculation for each Website
+     
      >	Rank them according to their Score
+     
   >> Front End Connection - Method:
+  
      protected void doGet - Do query(), pick 10 websites out of 15, and show them on result frame. 
 
   
