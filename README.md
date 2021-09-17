@@ -62,11 +62,17 @@ Internship opportunity is important for juniors and seniors, but information abo
 
   
 3. Search tricks:
+
 (1)	Keywords and weight:
+
 實習*200、職缺*200
+
 (2)	URL and weight:
+
 edu*-10000
+
 (3)	Catch SSL Exception:
+
 e.g. 1111人力銀行
   
   
