@@ -5,13 +5,13 @@
 
 
 1. Introduction:
-(1)	Use:
+(1).	Use:
 Find information about internships
-(2)	Users:
+(2).	Users:
 Students seeking for internship
-(3)	Motivation: 
+(3).	Motivation: 
 Internship opportunity is important for juniors and seniors, but information about interns scattered in various websites, so our purpose is to create a search engine helps students systematically organized the possible outcome.
-(4)	The websites that we want to rank: https://www.google.com/
+(4).	The websites that we want to rank: https://www.google.com/
 
 
 2. 	System Design:
